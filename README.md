@@ -1,0 +1,3 @@
+# Kraken-Heartbeats デモ
+pythonバージョン
+
