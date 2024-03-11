@@ -1,6 +1,7 @@
 mqtt:
-  host: "tcp://localhost:1883"
+  host: "[YOUR BROKER IP ADDRESS]"
+  port: 1833
   topic: "kraken"
 client:
-  id: "kraken-edge-heartbeater"
-  interval: 5000
+  id: "kraken-edge-heartbeater-python-hoge"
+  interval: 2
